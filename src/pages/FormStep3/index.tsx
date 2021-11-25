@@ -21,6 +21,7 @@ export const FormStep3 = () => {
     const handleNextStep = () => {
         if(state.email !== "" && state.github !== ""){
             alert("Cadastro finalizado com sucesso!")
+            console.log(state)
         }else{
             alert("Preencha os dados")
         }
