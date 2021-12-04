@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![alt text](https://github.com/karensantana278/Cadastro-React/blob/ae34615209d86b450ecc630991c4c526df32e26b/cadastro-dev.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
